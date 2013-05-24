@@ -1,5 +1,5 @@
 name: EnchantPod
-main: com.128keaton.EnchantPod
+main: com.keaton.enchantpod.EnchantPod
 version: 1.0
 commands:
    enegg:
